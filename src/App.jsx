@@ -21,7 +21,7 @@ const PANELS = [
   {
     id: "health",
     href: "https://ibodyscan.com/",
-    eyebrow: "Mineral Scan & Biometrics", // <- TODO: Update eyebrow message
+    eyebrow: "Quantum Bio-Resonance Scan",
     title: "Health",
     tagline: "Know your body",
     tone: "health",
